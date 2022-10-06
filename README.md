@@ -11,5 +11,3 @@ A card game builded with *html*, *css* and *javascript*.
 - The game ends when one player has won all the cards.
 
 Reference: https://bicyclecards.com/how-to-play/war/ 
-
-By: Julia Cohen
