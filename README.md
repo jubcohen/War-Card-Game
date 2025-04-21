@@ -10,3 +10,6 @@ A card game builded with *html*, *css* and *javascript*.
 - Each player turns up a card at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom of his stack.
 - The game ends when one player has won all the cards.
 
+---
+
+Developed with 💻 by Julia Cohen
